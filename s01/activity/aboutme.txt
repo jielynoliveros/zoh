@@ -3,3 +3,7 @@ Jielyn O. Calitis
 Motivation:
 
 My motivation in joining this open house is the opportunity to learn the skills and knowledge crucial for Frontend Web Development such as HTML, CSS and Git on the side.
+
+Work Experience:
+
+I worked as Web QA Manual Tester for 5+ years in a Digital Marketing Agency.
