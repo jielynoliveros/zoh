@@ -1,0 +1,106 @@
+* {
+	font-family: "Poppins", sans-serif;
+	/*CSS Reset	*/
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+nav {
+	background-color: slategrey;
+	text-align: center;
+	padding: 16px;
+	margin-bottom: 4px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+}
+
+.nav-link {
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
+	font-weight: 700;
+}
+
+.tools-img {
+	height: 100px;
+	width: 100px;
+	margin-left: 2rem;
+	margin-right: 2rem;
+}
+
+.card {
+	background-color: aliceblue;
+	height: 400px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.card-img {
+	height: 300px;
+	width: 300px;
+}
+
+.project-name {
+ padding: 16px;
+}
+
+#profile {
+	height: 300px;
+	width: 300px;
+	margin-top:30px;
+	margin-bottom:30px;
+	border-radius: 150px;
+}
+
+#landing {
+	text-align: center;
+}
+
+#name {
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+#title {
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+#intro {
+	width: 200px;
+	margin: auto;
+}
+
+#tools {
+	text-align: center;
+	margin-top:30px;
+	margin-bottom:30px;
+}
+
+#tools-title {
+	margin-bottom:30px;
+}
+
+#projects {
+	text-align: center;
+}
+
+#project-title {
+	margin-bottom:30px;
+}
+
+#contact {
+	text-align: center;
+	padding: 16px;
+	margin-top:4px;
+	background-color: slategrey;
+}
+
